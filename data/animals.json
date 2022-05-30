@@ -108,6 +108,13 @@
     },
     {
       "id": "12"
+    },
+    {
+      "name": "Todd",
+      "species": "Donkey",
+      "diet": "herbivore",
+      "personalityTraits": [],
+      "id": "13"
     }
   ]
 }
